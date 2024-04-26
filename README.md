@@ -1,5 +1,5 @@
 # EX-07 Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game
-### Aim:                                                                                                                       **DATE:**
+### Aim:                                                                                                                     
 Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game. &emsp;&emsp;&emsp;&emsp;                 
 #### GOALS of Alpha-Beta Pruning in MiniMax Search Algorithm.  <br>
 Improve the decision-making efficiency of the computer player by reducing the number of evaluated nodes in the game tree.
